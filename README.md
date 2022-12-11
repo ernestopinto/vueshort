@@ -1,4 +1,8 @@
-# vueshort
+# VUE SHORT
+
+## This a basic boiler plate for VUE 3 based projects
+
+### @ Ernesto Pinto 12/2022
 
 ## Project setup
 ```
